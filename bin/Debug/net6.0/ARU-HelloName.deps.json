@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ARU-HelloName/1.0.0": {
+        "runtime": {
+          "ARU-HelloName.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ARU-HelloName/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

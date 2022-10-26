@@ -1,0 +1,15 @@
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\bin\Debug\net6.0\ARU-HelloName.exe
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\bin\Debug\net6.0\ARU-HelloName.deps.json
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\bin\Debug\net6.0\ARU-HelloName.runtimeconfig.json
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\bin\Debug\net6.0\ARU-HelloName.dll
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\bin\Debug\net6.0\ARU-HelloName.pdb
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\obj\Debug\net6.0\ARU-HelloName.csproj.AssemblyReference.cache
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\obj\Debug\net6.0\ARU-HelloName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\obj\Debug\net6.0\ARU-HelloName.AssemblyInfoInputs.cache
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\obj\Debug\net6.0\ARU-HelloName.AssemblyInfo.cs
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\obj\Debug\net6.0\ARU-HelloName.csproj.CoreCompileInputs.cache
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\obj\Debug\net6.0\ARU-HelloName.dll
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\obj\Debug\net6.0\refint\ARU-HelloName.dll
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\obj\Debug\net6.0\ARU-HelloName.pdb
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\obj\Debug\net6.0\ARU-HelloName.genruntimeconfig.cache
+C:\Users\Connor Prettyman\Desktop\Repos\ARU-HelloName\obj\Debug\net6.0\ref\ARU-HelloName.dll
